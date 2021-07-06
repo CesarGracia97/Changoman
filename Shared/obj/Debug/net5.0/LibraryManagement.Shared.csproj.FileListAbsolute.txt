@@ -1,0 +1,12 @@
+C:\Users\narut\Escritorio\PA\P2\blazor-wasm-datagrid-efcore-crud-main\LibraryManagement\Shared\bin\Debug\net5.0\LibraryManagement.Shared.deps.json
+C:\Users\narut\Escritorio\PA\P2\blazor-wasm-datagrid-efcore-crud-main\LibraryManagement\Shared\bin\Debug\net5.0\LibraryManagement.Shared.dll
+C:\Users\narut\Escritorio\PA\P2\blazor-wasm-datagrid-efcore-crud-main\LibraryManagement\Shared\bin\Debug\net5.0\ref\LibraryManagement.Shared.dll
+C:\Users\narut\Escritorio\PA\P2\blazor-wasm-datagrid-efcore-crud-main\LibraryManagement\Shared\bin\Debug\net5.0\LibraryManagement.Shared.pdb
+C:\Users\narut\Escritorio\PA\P2\blazor-wasm-datagrid-efcore-crud-main\LibraryManagement\Shared\obj\Debug\net5.0\LibraryManagement.Shared.csproj.AssemblyReference.cache
+C:\Users\narut\Escritorio\PA\P2\blazor-wasm-datagrid-efcore-crud-main\LibraryManagement\Shared\obj\Debug\net5.0\LibraryManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narut\Escritorio\PA\P2\blazor-wasm-datagrid-efcore-crud-main\LibraryManagement\Shared\obj\Debug\net5.0\LibraryManagement.Shared.AssemblyInfoInputs.cache
+C:\Users\narut\Escritorio\PA\P2\blazor-wasm-datagrid-efcore-crud-main\LibraryManagement\Shared\obj\Debug\net5.0\LibraryManagement.Shared.AssemblyInfo.cs
+C:\Users\narut\Escritorio\PA\P2\blazor-wasm-datagrid-efcore-crud-main\LibraryManagement\Shared\obj\Debug\net5.0\LibraryManagement.Shared.csproj.CoreCompileInputs.cache
+C:\Users\narut\Escritorio\PA\P2\blazor-wasm-datagrid-efcore-crud-main\LibraryManagement\Shared\obj\Debug\net5.0\LibraryManagement.Shared.dll
+C:\Users\narut\Escritorio\PA\P2\blazor-wasm-datagrid-efcore-crud-main\LibraryManagement\Shared\obj\Debug\net5.0\ref\LibraryManagement.Shared.dll
+C:\Users\narut\Escritorio\PA\P2\blazor-wasm-datagrid-efcore-crud-main\LibraryManagement\Shared\obj\Debug\net5.0\LibraryManagement.Shared.pdb

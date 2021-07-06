@@ -1,0 +1,25 @@
+﻿@page "/"
+@using ArticulosTecnologicos.Shared.Models 
+
+<SfGrid TValue="Informacion" Toolbar="@(new List<string>() { "Add", "Edit", "Delete", "Update", "Cancel" })">
+    <SfDataManager Url="/api/Informacions" Adaptor="Adaptors.WebApiAdaptor"></SfDataManager>
+    <GridEditSettings AllowAdding="true" AllowEditing="true" AllowDeleting="true"></GridEditSettings>
+    <GridColumns>
+        <GridColumn Field="@nameof(Informacion.Id)" IsPrimaryKey="true" Visible="false"></GridColumn>
+        <GridColumn Field="@nameof(Informacion.Nombre)" Width="150"></GridColumn>
+        <GridColumn Field="@nameof(Informacion.Detalles)" Width="150"></GridColumn>
+        <GridColumn Field="@nameof(Informacion.Cantidad)" ValidationRules="@(new ValidationRules(){ Required = true })" Width="90" TextAlign="TextAlign.Right"></GridColumn>
+        <GridColumn Field="@nameof(Informacion.Precio)" ValidationRules="@(new ValidationRules(){ Required = true })" Width="90" TextAlign="TextAlign.Right"></GridColumn>
+        <GridColumn Field="@nameof(Informacion.Stock)" Width="150"></GridColumn>
+        <GridColumn Field="@nameof(Informacion.Existencia)" DisplayAsCheckBox="true" Width="70"></GridColumn>
+    </GridColumns>
+    <GridEvents TValue="Informacion" OnActionFailure="Failure"></GridEvents>
+</SfGrid>
+
+@code{
+    
+    private void Failure(FailureEventArgs e) {
+        Console.WriteLine(e.Error.Message);
+        Console.WriteLine(e.Error.StackTrace);
+    }
+}

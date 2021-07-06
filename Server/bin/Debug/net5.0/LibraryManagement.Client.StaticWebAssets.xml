@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\narut\Escritorio\PA\P2\blazor-wasm-datagrid-efcore-crud-main\LibraryManagement\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\narut\Escritorio\PA\P2\blazor-wasm-datagrid-efcore-crud-main\LibraryManagement\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor" Path="C:\Users\narut\.nuget\packages\syncfusion.blazor\19.1.0.69\build\..\staticwebassets\" />
+</StaticWebAssets>

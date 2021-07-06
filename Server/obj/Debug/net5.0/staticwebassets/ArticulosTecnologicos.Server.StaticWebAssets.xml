@@ -1,0 +1,6 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\narut\Escritorio\PA\P2 VA\Articulos_Tecnologicos\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\narut\Escritorio\PA\P2 VA\Articulos_Tecnologicos\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Users\narut\Escritorio\PA\P2 VA\Articulos_Tecnologicos\Client\wwwroot\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor" Path="C:\Users\narut\.nuget\packages\syncfusion.blazor\19.1.0.69\build\..\staticwebassets\" />
+</StaticWebAssets>
